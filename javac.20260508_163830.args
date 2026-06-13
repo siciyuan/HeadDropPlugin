@@ -1,0 +1,9 @@
+-d
+build\\classes
+-cp
+D:\\Users\\Administrator\\Desktop\\minecraft\\MSL\\Server\\paper-1.21.11.jar
+src\\main\\java\\com\\scroam\\headdrop\\HeadDropCommand.java
+src\\main\\java\\com\\scroam\\headdrop\\HeadDropListener.java
+src\\main\\java\\com\\scroam\\headdrop\\HeadDropPlugin.java
+src\\main\\java\\com\\scroam\\headdrop\\OfflineTextureManager.java
+src\\main\\java\\com\\scroam\\headdrop\\OnlineTextureCache.java

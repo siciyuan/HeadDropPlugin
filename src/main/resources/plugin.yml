@@ -1,0 +1,18 @@
+name: HeadDropPlugin
+version: 1.0.0
+main: com.scroam.headdrop.HeadDropPlugin
+api-version: 1.21
+author: SCROAM
+website: blog.world123.top
+description: 万物皆可掉头颅插件
+
+commands:
+  headdrop:
+    description: HeadDropPlugin 管理命令
+    usage: /headdrop <reload|chance|give|list|info>
+    permission: headdrop.admin
+
+permissions:
+  headdrop.admin:
+    description: 允许管理 HeadDropPlugin
+    default: op
